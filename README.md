@@ -1,4 +1,4 @@
-#👋 Hey there! I'm Valentine
+# 👋 Hey there! I'm Valentine
 
 An enthusiastic developer with a thirst for knowledge 🌟. My journey into the fascinating world of programming began in highschool using scratch, and I've been hooked ever since! 💻 
 
